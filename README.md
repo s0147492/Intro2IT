@@ -1,4 +1,4 @@
-# My Profile – Steve Davies [Weblink](./readme.html)
+# My Profile – Steve Davies [Weblink](https://s0147492.github.io/readme.html)
   
 ## RMIT Introduction to IT – Assignment Task 1
   
