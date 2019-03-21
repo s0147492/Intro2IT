@@ -213,6 +213,7 @@ Outcomes: Develop Cooperation and Team building skills, Investigate and Design s
 ##### 14: https://www.idrlabs.com/big-five-subscales/test.php
   
   
-#### Editors used: Visual Studio Code
+#### Editors used: Visual Studio Code, Atom, PageBreeze, Word
+##### Theme from GitHub settings www.github.com
   
   
