@@ -1,4 +1,4 @@
-# My Profile – Steve Davies [Weblink](https://s0147492.github.io/readme.html)
+# My Profile – Steve Davies [Weblink](https://s0147492.github.io/Intro2IT)
   
 ## RMIT Introduction to IT – Assignment Task 1
   
@@ -182,38 +182,37 @@ Project would implement and Develop server-side web-based MySQL database, includ
   
 Programming skills in Database manipulation, languages and applications such as Java script, Perl, PHP, Python, Ruby, Thrift, ReactJS, C#, CSS, dynamic Web design and layout, application development for Mobiles using Swift and Java, Team Management and Liaison with many different groups and organisations.
 Outcomes: Develop Cooperation and Team building skills, Investigate and Design suitable technological implantation, To Learn MySQL – PHP – Web scripting and mark-up languages – Develop Mobile phone Application Coding skills! The Project could develop towards some form of Health or Disability Group Project including some aspects and developed in to broader community use. 
-### References:
+## References:
+
+1: webpage n.d, Missionary Aviation Fellowship accessed 13 March 2019 https://maf.org.au/current_vacancies/technology-services-manager-arnhem-land/
+
+ 2: webpage n.d., Missionary Aviation Fellowship accessed 13 March 2019 https://maf.org.au/current_vacancies/it-officer-cairns/
+ 
+3: webpage n.d., Missionary Aviation Fellowship accessed 13 March 2019 https://maf.org.au/what-does-it-take/
   
-##### 1: https://maf.org.au/current_vacancies/technology-services-manager-arnhem-land/
-  
-##### 2: https://maf.org.au/current_vacancies/it-officer-cairns/
-  
-##### 3: https://maf.org.au/what-does-it-take/
-  
-##### 4: https://maf.org.au/careers-faq/
-  
-##### 5: https://www.16personalities.com/free-personality-test
-  
-##### 6: https://www.16personalities.com/infps-at-work
-  
-##### 7: https://www.16personalities.com/infp-careers
-  
-##### 8: http://www.humanmetrics.com/personality/istj-type?EI=-66&SN=3&TF=9&JP=12
-  
-##### 9: http://www.humanmetrics.com/personality/istj
-  
-##### 10: http://www.humanmetrics.com/personality/istj-careers?EI=-66&SN=3&TF=9&JP=12
-  
-##### 11: https://en.wikipedia.org/wiki/ISTJ
-  
-##### 12: http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=3&V=6&T=11
-  
-##### 13: https://www.learning-styles-online.com/inventory/results.php
-  
-##### 14: https://www.idrlabs.com/big-five-subscales/test.php
-  
-  
-#### Editors used: Visual Studio Code, Atom, PageBreeze, Word
-##### Theme from GitHub settings www.github.com
-  
+4: webpage n.d, Missionary Aviation Fellowship accessed 16 March 2019 https://maf.org.au/careers-faq/ 
+ 
+5: webpage 16 Personalities n.d., accessed 16 March 2019 https://www.16personalities.com/free-personality-test 
+ 
+6: webpage 16 Personalities n.d., accessed 16 March 2019 https://www.16personalities.com/infps-at-work
+ 
+7: webpage 16 Personalities n.d., accessed 16 March 2019 https://www.16personalities.com/infp-careers 
+ 
+8: webpage Humanmetrics n.d., accessed 16 March 2019 http://www.humanmetrics.com/personality/istj-type?EI=-66&SN=3&TF=9&JP=12 
+ 
+9: webpage Humanmetrics n.d., accessed 16 March 2019 http://www.humanmetrics.com/personality/istj 
+ 
+10: webpage Humanmetricxs n.d., accessed 16 March 2019 http://www.humanmetrics.com/personality/istj-careers?EI=-66&SN=3&TF=9&JP=12 
+ 
+11: webpage wikipedia n.d., accessed 16 March 2019 https://en.wikipedia.org/wiki/ISTJ  https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+ 
+12: webpage Education Planner n.d., accessed 16 March 2019 http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=3&V=6&T=11 
+ 
+13: webpage Learning Styles Online n.d,, accessed 16 March 2019 https://www.learning-styles-online.com/inventory/results.php 
+ 
+14: webpage IDR Labs n.d., accessed 16 March 2019 https://www.idrlabs.com/big-five-subscales/test.php 16 March 2019
+ 
+ 
+Editors used: Visual Studio Code, Atom, PageBreeze, Word
+Theme from GitHub settings www.github.com https://github.com/s0147492/Intro2IT/commit/397caeecb6ed49cf4d779ccc91ad26e05df33723 html5 templete downloaded but not used www.html5.com
   
