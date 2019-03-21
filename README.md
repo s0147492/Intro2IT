@@ -87,7 +87,7 @@ Ideal Job Special Requirements:
 #### 4: https://maf.org.au/careers-faq/
   
   
-![Maf-Requirements-Capture](Pix/Maf-Requirements-Capture_8ogu1f8ti.JPG )
+![Maf-Requirements-Capture](Pix/Maf-Requirements-Capture.JPG )
   
 ### Job Description: Technology Services Manager
   
