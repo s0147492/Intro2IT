@@ -70,16 +70,16 @@ During Christmas – New Year of 2018-2019 – I felt calling of the Holy Spirit
   
 #### 1: https://maf.org.au/current_vacancies/technology-services-manager-arnhem-land/
   
-![Maf-ArnhemLand-Capture](./pix/Maf-ArnhemLand-Capture.JPG )
+![Maf-ArnhemLand-Capture](Pix/Maf-ArnhemLand-Capture.JPG )
   
 #### 2: https://maf.org.au/current_vacancies/it-officer-cairns/
   
-![Maf-Cairns-Capture](./pix/Maf-Cairns-Capture.JPG )
+![Maf-Cairns-Capture](Pix/Maf-Cairns-Capture.JPG )
 ### Ideal Job Requirements:
   
 #### 3: https://maf.org.au/what-does-it-take/
   
-![WhatDoesItTake-Capture](./pix/WhatDoesItTake-Capture.PNG )
+![WhatDoesItTake-Capture](Pix/WhatDoesItTake-Capture.PNG )
   
 Ideal Job Special Requirements:
 #### 3: https://maf.org.au/what-does-it-take/
@@ -87,7 +87,7 @@ Ideal Job Special Requirements:
 #### 4: https://maf.org.au/careers-faq/
   
   
-![Maf-Requirements-Capture](./pix/Maf-Requirements-Capture_8ogu1f8ti.JPG )
+![Maf-Requirements-Capture](Pix/Maf-Requirements-Capture_8ogu1f8ti.JPG )
   
 ### Job Description: Technology Services Manager
   
@@ -105,29 +105,29 @@ Experience may be expanded through short term volunteer positions.
 ### 5: [Myers-Briggs Type Indicator (MBTI) test Results:](https://www.16personalities.com/free-personality-test )
   
   
-![16Personalities-Capture](./pix/16Personalities-Capture.JPG )
+![16Personalities-Capture](Pix/16Personalities-Capture.JPG )
   
 ### 8: ISTJ [www.humanmetricis.com](http://www.humanmetrics.com/personality/istj-type?EI=-66&SN=3&TF=9&JP=12 )
   
   
-![ISTJ-Results-Capture](./pix/ISTJ-Results-Capture.JPG )
+![ISTJ-Results-Capture](Pix/ISTJ-Results-Capture.JPG )
   
 ##### Learning styles test Results:
   
 ### 12: [www.educattionplanner.org](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=3&V=6&T=11 )
   
   
- ![TactileLearner-Capture](./pix/TactileLearner-Capture.JPG )
+ ![TactileLearner-Capture](Pix/TactileLearner-Capture.JPG )
 ### 13: [www.learning-styles-online.com](https://www.learning-styles-online.com/inventory/results.php )
   
   
-![LearningStyles-Capture](./pix/LearningStyles-Capture.JPG )
+![LearningStyles-Capture](Pix/LearningStyles-Capture.JPG )
   
 ## Big5 Personality Style Test Results:
   
 ### 14: [www.idrlabs.com](https://www.idrlabs.com/big-five-subscales/test.php )
   
-![IDRLabs-Results-Capture](./pix/IDRLabs-Results-Capture.JPG )
+![IDRLabs-Results-Capture](Pix/IDRLabs-Results-Capture.JPG )
   
 ## Psychometrics Report Findings:
   
